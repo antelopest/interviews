@@ -12,7 +12,7 @@
 * Hoisting
 * TDZ
 
-* [ ]  Done
+* [X]  Done
 
 ### TS
 
@@ -40,6 +40,8 @@
 * Layouts
 * Nested routes
 
+* [X]  Done
+
 ### Architecture
 
 * Component thinking
@@ -50,6 +52,6 @@
 
 ### Practice
 
-* Build: Counter + Todo
-* TS typing for props/state
-* Next app with layout + pages
+* [X]  Build: Counter + Todo
+* [X]  TS typing for props/state
+* [X]  Next app with layout + pages
