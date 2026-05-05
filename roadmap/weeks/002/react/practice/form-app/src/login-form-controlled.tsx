@@ -20,7 +20,7 @@ const LoginFormControlled = () => {
   }
 
   const change = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const { name, value } = e.target; и
+    const { name, value } = e.target;
 
     setForm((prev) => {
       return ({
